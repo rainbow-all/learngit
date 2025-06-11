@@ -1,2 +1,1 @@
 green tea;
-happy,sad,lonely;
