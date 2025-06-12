@@ -1,3 +1,1 @@
-This is sunday
-I feel not happy.
-I like you
+this is a cpp code;
